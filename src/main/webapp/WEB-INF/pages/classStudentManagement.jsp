@@ -23,10 +23,10 @@
 	
 	<div id="mainContent" >
  
-			<h2>Classes V1</h2>
+			<h2>Classes V2</h2>
             <div id="classesListGrid" style="width:750"></div>
 
-			<h2>Students V1</h2>
+			<h2>Students V2</h2>
             <div id="studentsListGrid" style="width:780"></div>
             
 	
