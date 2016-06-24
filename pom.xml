@@ -127,7 +127,7 @@
  	<!-- BUILD SECTION -->
 	<build>
 		<finalName>Vtac</finalName>
-		<sourceDirectory>${project.basedir}/src/java</sourceDirectory>
+		<sourceDirectory>${project.basedir}/src/main/java</sourceDirectory>
 			<plugins>
 				<plugin> 
 				    <groupId>org.apache.maven.plugins</groupId> 
